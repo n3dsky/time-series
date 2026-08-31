@@ -67,7 +67,7 @@ Python 3.11, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, Ligh
 
 ```
 .
-├── c46b3584-bb94-4b72-853f-0f2926a9c291.ipynb   основной ноутбук с исследованием
+├── notebook.ipynb   основной ноутбук с исследованием
 ├── datasets/
 │   └── taxi.csv                                 исходные данные
 └── README.md
