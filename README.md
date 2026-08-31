@@ -77,7 +77,7 @@ Python 3.11, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, Ligh
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels lightgbm jupyter
-jupyter notebook c46b3584-bb94-4b72-853f-0f2926a9c291.ipynb
+jupyter notebook notebook.ipynb
 ```
 
 Ноутбук ищет данные по пути `datasets/taxi.csv`, а если файла нет - по пути `/datasets/taxi.csv`, поэтому запускается и локально, и в тренажёре Практикума. Полный прогон занимает несколько минут, основное время уходит на перебор гиперпараметров.
